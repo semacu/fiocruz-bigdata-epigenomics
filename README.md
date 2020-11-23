@@ -23,8 +23,8 @@ Time | Session | Link
 9:00-9:40 | Lecture | [Introduction to methylation analysis. Data processing, QC and alignment](lectures/Introduction.pdf)
 9:40-10:10 | Practical | [QC and Mapping of BS-Seq data](practicals/QC_mapping.pdf)
 10:10-10:20 | Recap | 
-10:20-10:40 | Coffee break |
-10:40-11:20 | Lecture |
+10:20-10:40 | Coffee break | 
+10:40-11:20 | Lectures | [Visualising and exploring methylation data](lectures/Visualisation.pdf) [Differential methylation analysis](lectures/Differential_Methylation_Analysis.pdf)
 11:20-11:50 | Practical |
 11:50-12:00 | Recap |
 
