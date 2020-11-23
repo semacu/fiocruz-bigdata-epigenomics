@@ -4,7 +4,7 @@ Training materials for the methylation course (bisulfite-sequencing) on **Monday
 
 ### Credits
 
-All the materials are obtained from the following resources:
+All the training materials have been obtained from the following resources:
 
 - Babraham Institute's [Analysing bisulfite methylation sequencing data course](https://www.bioinformatics.babraham.ac.uk/training.html#bsseq)
 - Biconductor edgeR package section 4.7 [Bisulfite sequencing of mouse oocytes](http://bioconductor.org/packages/release/bioc/vignettes/edgeR/inst/doc/edgeRUsersGuide.pdf)
@@ -28,4 +28,10 @@ Time | Session | Link
 10:40-11:20 | Lecture | [Differential methylation analysis](lectures/Differential_Methylation_Analysis.pdf)
 11:20-11:50 | Practical |
 11:50-12:00 | Recap |
+
+
+### Comments / Feedback
+
+Please get in touch with Sergio Martinez Cuesta: sermarcue [at] gmail.com
+
 
