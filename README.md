@@ -18,7 +18,7 @@ Lectures and practicals covering the fundamentals of DNA methylation in genomes,
 
 ### Contents
 
-- Lecture: [Introduction to methylation analysis. Data processing, QC and alignment](lectures/Introduction.pdf)
-
-
-
+- Lecture (40 min): [Introduction to methylation analysis. Data processing, QC and alignment](lectures/Introduction.pdf)
+- Practical (30 min): [QC and Mapping of BS-Seq data](practicals/QC_mapping.pdf)
+- Recap (10 min)
+- Coffee break (20 min)
