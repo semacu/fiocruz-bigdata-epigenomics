@@ -16,9 +16,13 @@ Provide a look at the computational steps needed for the analysis of bisulfite s
 Lectures and practicals covering the fundamentals of DNA methylation in genomes, processing of raw sequence data and  QC, visualisation, quantification and differential methylation analysis.
 
 
-### Contents
+### Schedule
 
-- Lecture (40 min): [Introduction to methylation analysis. Data processing, QC and alignment](lectures/Introduction.pdf)
-- Practical (30 min): [QC and Mapping of BS-Seq data](practicals/QC_mapping.pdf)
-- Recap (10 min)
-- Coffee break (20 min)
+- 9:00-9:40 Lecture: [Introduction to methylation analysis. Data processing, QC and alignment](lectures/Introduction.pdf)
+- 9:40-10:10 Practical: [QC and Mapping of BS-Seq data](practicals/QC_mapping.pdf)
+- 10:10-10:20 Recap
+- 10:20-10:40 Coffee break
+- 10:40-11:20 Lecture:
+- 11:20-11:50 Practical:
+- 11:50-12:00 Recap
+
