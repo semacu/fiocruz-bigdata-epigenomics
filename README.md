@@ -1,5 +1,5 @@
 
-Training materials for the methylation course (bisulfite-sequencing) in the **[International School on Big Data and Epigenomics applied to Public Health](https://campusvirtual.fiocruz.br/gestordecursos/hotsite/BigDataEpigenomics)**
+Training materials for the methylation course (bisulfite-sequencing) on **Monday 23rd November** as part of the **[International School on Big Data and Epigenomics applied to Public Health](https://campusvirtual.fiocruz.br/gestordecursos/hotsite/BigDataEpigenomics)**
 
 
 ### Credits
