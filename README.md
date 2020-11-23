@@ -26,7 +26,7 @@ Time | Session | Link
 10:20-10:40 | Coffee break | 
 10:40-11:20 | Lecture | [Visualising and exploring methylation data](lectures/Visualisation.pdf)
 10:40-11:20 | Lecture | [Differential methylation analysis](lectures/Differential_Methylation_Analysis.pdf)
-11:20-11:50 | Practical |
+11:20-11:50 | Practical | [Differential methylation analysis with edgeR](practicals/Differential_Methylation_Analysis_edgeR.pdf)
 11:50-12:00 | Recap |
 
 
